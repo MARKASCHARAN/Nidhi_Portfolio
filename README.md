@@ -14,7 +14,7 @@ Welcome to **Nidhi's Portfolio** – a personal website built to showcase profes
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Frontend**: HTML, CSS, JavaScript, TailwindCSS
 - **Styling**: CSS Flexbox, CSS Grid, and modern CSS animations
 - **Deployment**: Deployed using [platform details, e.g., GitHub Pages, Netlify, Vercel]
 - **Version Control**: Git, GitHub
