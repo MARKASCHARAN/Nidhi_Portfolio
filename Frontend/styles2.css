@@ -182,7 +182,7 @@ header {
       display: none;
       flex-direction: column;
       position:absolute;
-      top: 40%;
+      top: 45%;
       left: 50%;
       transform: translate(-50%, -50%);
       gap: 50px;
