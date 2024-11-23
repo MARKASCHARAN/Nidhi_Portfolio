@@ -49,11 +49,17 @@ header {
     text-decoration: none;
     border-radius: 5px;
 }
+.container{
+    text-align: center;
+}
 .about-content {
+    
     display: flex;
     align-items: center;
     gap: 2rem;
     padding: 2rem 1rem;
+    padding: 8%;
+    
 }
 .profile-image {
     border-radius: 50%;
@@ -92,7 +98,7 @@ header {
     color: #ff6347;
 }
 .contact {
-    background: #f9f9f9;
+    background: #f7a642;
     padding: 2rem 1rem;
 }
 .contact-form input, .contact-form textarea {
